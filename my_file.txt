@@ -1,0 +1,6 @@
+Mi nombre es Albert
+Mi apellido es Lopez
+41 años
+Y mi lenguaje preferido es Python
+Aunque también me gusta Kotlin
+Y Swift
